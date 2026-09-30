@@ -3,55 +3,53 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=3FB950&center=true&vCenter=true&width=640&lines=CSE+%40+MSU+Baroda+%C2%B7+Data+Science+%40+IIT+Madras" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=3FB950&center=true&vCenter=true&width=640&lines=CSE+%40+MSU+Baroda+%C2%B7+Data+Science+%40+IIT+Madras" alt="CSE @ MSU Baroda · Data Science @ IIT Madras" />
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/vp916/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:vnp785@gmail.com"><img src="https://img.shields.io/badge/Email-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  
 </p>
 
----
-
-##  About me
+## About me
 
 CS undergrad at **MSU Baroda** with a parallel **BS in Data Science from IIT Madras**. Building end-to-end software, from React interfaces and REST APIs to the machine-learning models behind them, with most of the recent work in deep learning.
 
-- 🧠 **Deep learning:** image classification, semantic segmentation and GAN-based super-resolution in PyTorch, trained on GPUs with mixed precision
-- 📊 **Machine learning:** gradient-boosted ensembles (XGBoost, LightGBM, CatBoost), feature engineering, cross-validation and stacking
-- 🌐 **Full-stack:** React + TypeScript frontends, Node.js / Express and FastAPI backends, MongoDB and PostgreSQL, JWT authentication
-- 🔌 **ML in production apps:** models served as FastAPI microservices and consumed by Node.js backends over REST
+| | |
+|---|---|
+| **Deep learning** | Image classification, semantic segmentation and GAN-based super-resolution in PyTorch, trained on GPUs with mixed precision |
+| **Machine learning** | Gradient-boosted ensembles (XGBoost, LightGBM, CatBoost), feature engineering, cross-validation and stacking |
+| **Full-stack** | React + TypeScript frontends, Node.js / Express and FastAPI backends, MongoDB and PostgreSQL, JWT authentication |
+| **ML in production apps** | Models served as FastAPI microservices and consumed by Node.js backends over REST |
 
----
-
-##  Featured projects
+## Featured projects
 
 | Project | What it does | Result |
 |---|---|---|
-| 🫁 **[Chest X-ray Disease Classification](https://github.com/vp916/chest-xray-disease-classification)** | 20-class thoracic pathology classification on 51K+ X-rays. Fine-tuned DenseNet-201 with focal loss and per-class decision thresholds tuned for a metric that heavily penalises missed diseases. | Test score improved from **−5.22 → −5.04** through threshold tuning |
-| ⚙️ **[Mechanical Parts Segmentation](https://github.com/vp916/mechanical-parts-segmentation)** | 7-class semantic segmentation of industrial images. U-Net++ with ResNet-34 and EfficientNet-B1 encoders, **trained from scratch**, ensembled with test-time augmentation. | **Dice 0.9796** on the test set |
-| 🌿 **[Plant Leaf Super-Resolution](https://github.com/vp916/plant-leaf-super-resolution)** | 4× SRGAN (32 → 128 px). SRResNet generator and conditional discriminator, with Charbonnier, Sobel-gradient, perceptual and delayed adversarial losses. | **MAE 16.77** on 0–255 pixels |
-| 🚜 **[Heavy Equipment Price Prediction](https://github.com/vp916/heavy_equipment_price_prediction)** | Price regression on 138K sparse, high-cardinality auction records. Stacked XGBoost, LightGBM and CatBoost with leak-free in-fold target encoding. 13 versions over 3 months. | **RMSLE 0.1928** on the test set |
+| **[Chest X-ray Disease Classification](https://github.com/vp916/chest-xray-disease-classification)** | 20-class thoracic pathology classification on 51K+ X-rays. Fine-tuned DenseNet-201 with focal loss and per-class decision thresholds tuned for a metric that heavily penalises missed diseases. | Test score improved from **−5.22 → −5.04** through threshold tuning |
+| **[Mechanical Parts Segmentation](https://github.com/vp916/mechanical-parts-segmentation)** | 7-class semantic segmentation of industrial images. U-Net++ with ResNet-34 and EfficientNet-B1 encoders, **trained from scratch**, ensembled with test-time augmentation. | **Dice 0.9796** on the test set |
+| **[Plant Leaf Super-Resolution](https://github.com/vp916/plant-leaf-super-resolution)** | 4× SRGAN (32 → 128 px). SRResNet generator and conditional discriminator, with Charbonnier, Sobel-gradient, perceptual and delayed adversarial losses. | **MAE 16.77** on 0–255 pixels |
+| **[Heavy Equipment Price Prediction](https://github.com/vp916/heavy_equipment_price_prediction)** | Price regression on 138K sparse, high-cardinality auction records. Stacked XGBoost, LightGBM and CatBoost with leak-free in-fold target encoding. 13 versions over 3 months. | **RMSLE 0.1928** on the test set |
 
-**Full-stack**
+### Full-stack
 
-- 💳 **AI Transaction Analytics Platform:** React + TypeScript dashboard and an Express/MongoDB API with JWT auth. A separate FastAPI service runs anomaly detection (Isolation Forest), spend forecasting, and TF-IDF expense categorisation.
-- 🧠 **AI Mental Health Support Platform:** journaling, self-assessments and an OpenAI-powered chat, built on React, Express and MongoDB with role-based access control.
+| Project | What it does |
+|---|---|
+| **AI Transaction Analytics Platform** | React + TypeScript dashboard and an Express/MongoDB API with JWT auth. A separate FastAPI service runs anomaly detection (Isolation Forest), spend forecasting, and TF-IDF expense categorisation. |
+| **AI Mental Health Support Platform** | Journaling, self-assessments and an OpenAI-powered chat, built on React, Express and MongoDB with role-based access control. |
 
----
-
-## 🛠️ Tech stack
+## Tech stack
 
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,ts,bash&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,ts,bash&theme=dark" alt="Python, Java, C++, C, JavaScript, TypeScript, Bash" />
 </p>
 
 **Machine learning & deep learning**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=dark" alt="ML frameworks" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=dark" alt="PyTorch, scikit-learn, OpenCV" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -66,29 +64,25 @@ CS undergrad at **MSU Baroda** with a parallel **BS in Data Science from IIT Mad
 **Web & backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi&theme=dark" alt="Web" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi&theme=dark" alt="React, Node.js, Express, FastAPI" />
 </p>
 
 **Databases & tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,linux,postman,vscode&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,linux,postman,vscode&theme=dark" alt="PostgreSQL, MongoDB, Docker, Git, GitHub, Linux, Postman, VS Code" />
 </p>
 
----
+## Achievements & experience
 
-## 🏆 Achievements & experience
-
-| | |
+| Title | Details |
 |---|---|
-| 🥉 **Second Runner-Up (3rd place)**, Adani Innovation Mindstorm 2026 | Built the ML pipeline (Isolation Forest + LSTM) for anomaly detection in industrial control systems |
-| 🌟 **Top 40 Finalist**, Odoo × MSU FootPrints'25 Hackathon | |
-| 🧑‍💻 **Open Source Contributor**, GirlScript Summer of Code 2026 | Issues, features and PRs through reviewed GitHub workflows |
-| 🎓 **Junior Training & Placement Coordinator**, FTE, MSU Baroda | Coordinating recruitment drives between students and recruiters |
+| **Second Runner-Up (3rd place)**<br><sub>Adani Innovation Mindstorm 2026</sub> | Built the ML pipeline (Isolation Forest + LSTM) for anomaly detection in industrial control systems |
+| **Top 40 Finalist**<br><sub>Odoo × MSU FootPrints'25 Hackathon</sub> | |
+| **Open Source Contributor**<br><sub>GirlScript Summer of Code 2026</sub> | Issues, features and PRs through reviewed GitHub workflows |
+| **Junior Training & Placement Coordinator**<br><sub>FTE, MSU Baroda</sub> | Coordinating recruitment drives between students and recruiters |
 
----
-
-## 📈 GitHub stats
+## GitHub stats
 
 <p align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=vp916&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&title_color=3FB950&icon_color=3FB950" alt="GitHub stats" />
