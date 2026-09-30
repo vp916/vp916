@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vp916/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:vnp785@gmail.com"><img src="https://img.shields.io/badge/Email-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=vp916&style=for-the-badge&color=238636&label=PROFILE+VIEWS" alt="Profile views" />
+  
 </p>
 
 ---
