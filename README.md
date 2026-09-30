@@ -15,10 +15,10 @@
 
 CS undergrad at **MSU Baroda** with a parallel **BS in Data Science from IIT Madras**. Building end-to-end software, from React interfaces and REST APIs to the machine-learning models behind them, with most of the recent work in deep learning.
 
-| | |
+| Area | Skills |
 |---|---|
-| **Deep learning** | Image classification, semantic segmentation and GAN-based super-resolution in PyTorch, trained on GPUs with mixed precision |
-| **Machine learning** | Gradient-boosted ensembles (XGBoost, LightGBM, CatBoost), feature engineering, cross-validation and stacking |
+| **Deep learning** | PyTorch and torchvision; CNNs, U-Net and GAN architectures for computer vision |
+| **Machine learning** | Scikit-Learn, XGBoost, LightGBM and CatBoost; supervised learning, anomaly detection, feature engineering and model evaluation |
 | **Full-stack** | React + TypeScript frontends, Node.js / Express and FastAPI backends, MongoDB and PostgreSQL, JWT authentication |
 | **ML in production apps** | Models served as FastAPI microservices and consumed by Node.js backends over REST |
 
