@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=3FB950&center=true&vCenter=true&width=640&lines=Building+machine+learning+and+deep+learning+models;Developing+full-stack+web+applications;Turning+models+into+working+products;CSE+%40+MSU+Baroda+%C2%B7+Data+Science+%40+IIT+Madras" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=3FB950&center=true&vCenter=true&width=640&lines=CSE+%40+MSU+Baroda+%C2%B7+Data+Science+%40+IIT+Madras" alt="Typing intro" />
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/vp916/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
