@@ -21,7 +21,7 @@
 </defs>
 <rect width="900" height="380" rx="14" fill="url(#bg)" stroke="#30363d"/>
 <circle cx="24" cy="22" r="6" fill="#f85149"/><circle cx="44" cy="22" r="6" fill="#d29922"/><circle cx="64" cy="22" r="6" fill="#3fb950"/>
-<text x="450" y="27" text-anchor="middle" class="m dim" font-size="12">varun@msu-baroda: ~/life — train.py</text>
+<text x="450" y="27" text-anchor="middle" class="m dim" font-size="12">varun@msu-baroda+iit-madras: ~/life — train.py</text>
 <line x1="0" y1="42" x2="900" y2="42" stroke="#21262d"/>
 
 <g class="m">
