@@ -1,92 +1,100 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=190&section=header&text=Varun%20Prajapati&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Machine%20Learning%20%C2%B7%20Deep%20Learning%20%C2%B7%20Full-Stack&descAlignY=58&descSize=17" width="100%" alt="Varun Prajapati" />
-</p>
+<!-- ─────────────────────────────────────────────────────────────
+     varun.prajapati — a model that's still training
+     every visual in this README is hand-built SVG in /assets
+───────────────────────────────────────────────────────────── -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=3FB950&center=true&vCenter=true&width=640&lines=CSE+%40+MSU+Baroda+%C2%B7+Data+Science+%40+IIT+Madras" alt="CSE @ MSU Baroda · Data Science @ IIT Madras" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vp916/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:vnp785@gmail.com"><img src="https://img.shields.io/badge/Email-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-## About me
-
-CS undergrad at **MSU Baroda** with a parallel **BS in Data Science from IIT Madras**. Building end-to-end software, from React interfaces and REST APIs to the machine-learning models behind them, with most of the recent work in deep learning.
-
-- **Deep learning:** PyTorch and torchvision; CNNs, U-Net and GAN architectures for computer vision
-- **Machine learning:** Scikit-Learn,Numpy,Pandas,XGBoost, LightGBM and CatBoost; supervised learning, anomaly detection, feature engineering and model evaluation
-- **Full-stack:** React + TypeScript frontends, Node.js / Express and FastAPI backends, MongoDB and PostgreSQL, JWT authentication
-- **ML in production apps:** models served as FastAPI microservices and consumed by Node.js backends over REST
-
-## Featured projects
-
-| Project | What it does | Result |
-|---|---|---|
-| **[Chest X-ray Disease Classification](https://github.com/vp916/chest-xray-disease-classification)** | 20-class thoracic pathology classification on 51K+ X-rays. Fine-tuned DenseNet-201 with focal loss and per-class decision thresholds tuned for a metric that heavily penalises missed diseases. | Test score improved from **−5.22 → −5.04** through threshold tuning |
-| **[Mechanical Parts Segmentation](https://github.com/vp916/mechanical-parts-segmentation)** | 7-class semantic segmentation of industrial images. U-Net++ with ResNet-34 and EfficientNet-B1 encoders, **trained from scratch**, ensembled with test-time augmentation. | **Dice 0.9796** on the test set |
-| **[Plant Leaf Super-Resolution](https://github.com/vp916/plant-leaf-super-resolution)** | 4× SRGAN (32 → 128 px). SRResNet generator and conditional discriminator, with Charbonnier, Sobel-gradient, perceptual and delayed adversarial losses. | **MAE 16.77** on 0–255 pixels |
-| **[Heavy Equipment Price Prediction](https://github.com/vp916/heavy_equipment_price_prediction)** | Price regression on 138K sparse, high-cardinality auction records. Stacked XGBoost, LightGBM and CatBoost with leak-free in-fold target encoding. 13 versions over 3 months. | **RMSLE 0.1928** on the test set |
-
-### Full-stack
-
-| Project | What it does |
-|---|---|
-| **AI Transaction Analytics Platform** | React + TypeScript dashboard and an Express/MongoDB API with JWT auth. A separate FastAPI service runs anomaly detection (Isolation Forest), spend forecasting, and TF-IDF expense categorisation. |
-| **AI Mental Health Support Platform** | Journaling, self-assessments and an OpenAI-powered chat, built on React, Express and MongoDB with role-based access control. |
-
-## Tech stack
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,ts,bash&theme=dark" alt="Python, Java, C++, C, JavaScript, TypeScript, Bash" />
-</p>
-
-**Machine learning & deep learning**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=dark" alt="PyTorch, scikit-learn, OpenCV" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/LightGBM-3C9A3C?style=for-the-badge" alt="LightGBM" />
-  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black" alt="CatBoost" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-</p>
-
-**Web & backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi&theme=dark" alt="React, Node.js, Express, FastAPI" />
-</p>
-
-**Databases & tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,linux,postman,vscode&theme=dark" alt="PostgreSQL, MongoDB, Docker, Git, GitHub, Linux, Postman, VS Code" />
-</p>
-
-## Achievements & experience
-
-| Title | Details |
-|---|---|
-| **Second Runner-Up (3rd place)**<br><sub>Adani Innovation Mindstorm 2026</sub> | Built the ML pipeline (Isolation Forest + LSTM) for anomaly detection in industrial control systems |
-| **Top 40 Finalist**<br><sub>Odoo × MSU FootPrints'25 Hackathon</sub> | |
-| **Open Source Contributor**<br><sub>GirlScript Summer of Code 2026</sub> | Issues, features and PRs through reviewed GitHub workflows |
-| **Junior Training & Placement Coordinator**<br><sub>FTE, MSU Baroda</sub> | Coordinating recruitment drives between students and recruiters |
-
-## GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=vp916&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&title_color=3FB950&icon_color=3FB950" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=vp916&theme=github-dark-blue&hide_border=true&ring=3FB950&fire=3FB950&currStreakLabel=3FB950" alt="GitHub streak" />
+  <img src="assets/hero.svg" width="100%" alt="Terminal: python train.py --model varun-prajapati --epochs ∞. CSE at MSU Baroda plus BS Data Science at IIT Madras. Still training." />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0d1117&height=110&section=footer" width="100%" alt="" />
+  <a href="https://www.linkedin.com/in/vp916/"><img src="https://img.shields.io/badge/linkedin-vp916-0d1117?style=flat-square&logo=linkedin&logoColor=3fb950&labelColor=0d1117&color=161b22" alt="LinkedIn" /></a>
+  <a href="mailto:vnp785@gmail.com"><img src="https://img.shields.io/badge/email-vnp785%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=3fb950&labelColor=0d1117&color=161b22" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=vp916&style=flat-square&color=238636&label=inference+calls" alt="Profile views" />
+</p>
+
+```python
+class Varun(Engineer):
+    loss_fn   = "the gap between a notebook and a shipped product"
+    optimizer = "read the paper → break the baseline → ship the API"
+    weights   = {"deep_learning": 0.45, "classical_ml": 0.25, "full_stack": 0.30}
+
+    def forward(self, problem):
+        model = self.train(problem, from_scratch=True)   # u-net++ dice 0.9796, no pretrained weights
+        api   = FastAPI(model)                            # served as a microservice
+        return React(api)                                 # …and someone actually clicks it
+```
+
+<br/>
+
+## ⟢ `model.summary()`
+
+<p align="center">
+  <img src="assets/stack.svg" width="100%" alt="Stack drawn as a neural network. Input: Python, TypeScript, C++, Java, SQL. Learning: PyTorch, scikit-learn, XGBoost/LightGBM/CatBoost, OpenCV, NumPy/Pandas. Serving: FastAPI, Node/Express, PostgreSQL, MongoDB, Docker. Output: React apps, ML microservices, competition-grade models." />
+</p>
+
+<br/>
+
+## ⟢ `experiments/` — click a run to open the repo
+
+<p align="center">
+  <a href="https://github.com/vp916/chest-xray-disease-classification"><img src="assets/card-xray.svg" width="49%" alt="Chest X-ray Classification: 20 classes, DenseNet-201, focal loss, per-class thresholds. Test score −5.22 → −5.04." /></a>
+  <a href="https://github.com/vp916/mechanical-parts-segmentation"><img src="assets/card-seg.svg" width="49%" alt="Mechanical Parts Segmentation: U-Net++, trained from scratch, TTA ensemble. Dice 0.9796." /></a>
+  <a href="https://github.com/vp916/plant-leaf-super-resolution"><img src="assets/card-sr.svg" width="49%" alt="Plant Leaf Super-Resolution: 4× SRGAN, 32 → 128 px. MAE 16.77." /></a>
+  <a href="https://github.com/vp916/heavy_equipment_price_prediction"><img src="assets/card-price.svg" width="49%" alt="Heavy Equipment Pricing: stacked XGBoost, LightGBM, CatBoost on 138K rows. RMSLE 0.1928." /></a>
+</p>
+
+<br/>
+
+## ⟢ `deploy/` — where the models meet users
+
+**AI Transaction Analytics Platform** — a full ML product, not a notebook:
+
+```mermaid
+flowchart LR
+    U([👤 user]) --> R[React + TypeScript<br/>dashboard]
+    R -- JWT --> N[Node · Express API]
+    N <--> M[(MongoDB)]
+    N -- REST --> F{{FastAPI ML service}}
+    F --> A[Isolation Forest<br/>anomaly detection]
+    F --> S[spend<br/>forecasting]
+    F --> T[TF-IDF<br/>auto-categorisation]
+    classDef ml fill:#0d1117,stroke:#3fb950,color:#e6edf3
+    classDef web fill:#0d1117,stroke:#58a6ff,color:#e6edf3
+    class F,A,S,T ml
+    class R,N,M web
+```
+
+**AI Mental Health Support Platform** — journaling, self-assessments and an OpenAI-powered chat on React · Express · MongoDB with role-based access control.
+
+<br/>
+
+## ⟢ `git log --oneline --graph achievements`
+
+```diff
++ * 3a91f2e  (HEAD → main)  🥉 2nd Runner-Up · Adani Innovation Mindstorm 2026
++ |                         built the Isolation Forest + LSTM pipeline for ICS anomaly detection
++ * 7c04d1b  🌱 Open Source Contributor · GirlScript Summer of Code 2026
++ |                         issues, features & PRs through reviewed GitHub workflows
++ * e52b8a0  🏁 Top 40 Finalist · Odoo × MSU FootPrints'25 Hackathon
++ * 1f6c3d9  🤝 Junior Training & Placement Coordinator · FTE, MSU Baroda
++ |                         bridging recruitment drives between students and recruiters
+  * 0000000  init: hello, world
+```
+
+<br/>
+
+<details>
+<summary><b>⟢ <code>tensorboard --logdir=github</code></b> &nbsp;<sub>(click to expand stats)</sub></summary>
+<br/>
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=vp916&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&title_color=3FB950&icon_color=3FB950&bg_color=0d1117" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=vp916&theme=github-dark-blue&hide_border=true&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&background=0d1117" alt="GitHub streak" />
+</p>
+</details>
+
+<br/>
+
+<p align="center">
+  <sub><code>early_stopping(patience=∞)</code> · open an issue, send a PR, or just say hi — the gradient's always open.</sub>
 </p>
