@@ -4,7 +4,7 @@
 ───────────────────────────────────────────────────────────── -->
 
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Terminal: python train.py --model varun-prajapati --epochs ∞. CSE at MSU Baroda plus BS Data Science at IIT Madras. Still training." />
+  <img src="assets/hero.svg?v=2" width="100%" alt="Terminal: python train.py --model varun-prajapati --epochs ∞. CSE at MSU Baroda plus BS Data Science at IIT Madras. Still training." />
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ class Varun(Engineer):
 ## ⟢ `model.summary()`
 
 <p align="center">
-  <img src="assets/stack.svg" width="100%" alt="Stack drawn as a neural network. Input: Python, TypeScript, C++, Java, SQL. Learning: PyTorch, scikit-learn, XGBoost/LightGBM/CatBoost, OpenCV, NumPy/Pandas. Serving: FastAPI, Node/Express, PostgreSQL, MongoDB, Docker. Output: React apps, ML microservices, competition-grade models." />
+  <img src="assets/stack.svg?v=2" width="100%" alt="Stack drawn as a neural network. Input: Python, TypeScript, C++, Java, SQL. Learning: PyTorch, scikit-learn, XGBoost/LightGBM/CatBoost, OpenCV, NumPy/Pandas. Serving: FastAPI, Node/Express, PostgreSQL, MongoDB, Docker. Output: React apps, ML microservices, competition-grade models." />
 </p>
 
 <br/>
@@ -38,10 +38,10 @@ class Varun(Engineer):
 ## ⟢ `experiments/` — click a run to open the repo
 
 <p align="center">
-  <a href="https://github.com/vp916/chest-xray-disease-classification"><img src="assets/card-xray.svg" width="49%" alt="Chest X-ray Classification: 20 classes, DenseNet-201, focal loss, per-class thresholds. Test score −5.22 → −5.04." /></a>
-  <a href="https://github.com/vp916/mechanical-parts-segmentation"><img src="assets/card-seg.svg" width="49%" alt="Mechanical Parts Segmentation: U-Net++, trained from scratch, TTA ensemble. Dice 0.9796." /></a>
-  <a href="https://github.com/vp916/plant-leaf-super-resolution"><img src="assets/card-sr.svg" width="49%" alt="Plant Leaf Super-Resolution: 4× SRGAN, 32 → 128 px. MAE 16.77." /></a>
-  <a href="https://github.com/vp916/heavy_equipment_price_prediction"><img src="assets/card-price.svg" width="49%" alt="Heavy Equipment Pricing: stacked XGBoost, LightGBM, CatBoost on 138K rows. RMSLE 0.1928." /></a>
+  <a href="https://github.com/vp916/chest-xray-disease-classification"><img src="assets/card-xray.svg?v=2" width="49%" alt="Chest X-ray Classification: 20 classes, DenseNet-201, focal loss, per-class thresholds. Test score −5.22 → −5.04." /></a>
+  <a href="https://github.com/vp916/mechanical-parts-segmentation"><img src="assets/card-seg.svg?v=2" width="49%" alt="Mechanical Parts Segmentation: U-Net++, trained from scratch, TTA ensemble. Dice 0.9796." /></a>
+  <a href="https://github.com/vp916/plant-leaf-super-resolution"><img src="assets/card-sr.svg?v=2" width="49%" alt="Plant Leaf Super-Resolution: 4× SRGAN, 32 → 128 px. MAE 16.77." /></a>
+  <a href="https://github.com/vp916/heavy_equipment_price_prediction"><img src="assets/card-price.svg?v=2" width="49%" alt="Heavy Equipment Pricing: stacked XGBoost, LightGBM, CatBoost on 138K rows. RMSLE 0.1928." /></a>
 </p>
 
 <br/>
