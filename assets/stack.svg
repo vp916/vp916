@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400" role="img" aria-label="Tech stack drawn as a neural network">
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.e{stroke:#30363d;stroke-width:1;fill:none}
+.f{fill:none;stroke-width:1.6;stroke-dasharray:6 120;animation:flow 3.2s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-126}}
+.n{animation:glow 3.2s ease-in-out infinite}
+@keyframes glow{50%{stroke-opacity:.25}}
+@media (prefers-reduced-motion:reduce){.f,.n{animation:none}}
+</style>
+<rect width="900" height="400" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="34" class="m" font-size="13" fill="#7d8590">model.summary()</text>
+<text x="876" y="34" class="m" font-size="13" fill="#3fb950" text-anchor="end">params: always growing</text>
+<path class="e" d="M110 108 C220 108 230 108 340 108"/>
+<path class="f" stroke="#bc8cff" style="animation-delay:-0.00s" d="M110 108 C220 108 230 108 340 108"/>
+<path class="e" d="M110 108 C220 108 230 164 340 164"/>
+<path class="e" d="M110 108 C220 108 230 220 340 220"/>
+<path class="e" d="M110 108 C220 108 230 276 340 276"/>
+<path class="f" stroke="#bc8cff" style="animation-delay:-1.11s" d="M110 108 C220 108 230 276 340 276"/>
+<path class="e" d="M110 108 C220 108 230 332 340 332"/>
+<path class="e" d="M110 164 C220 164 230 108 340 108"/>
+<path class="f" stroke="#bc8cff" style="animation-delay:-1.85s" d="M110 164 C220 164 230 108 340 108"/>
+<path class="e" d="M110 164 C220 164 230 164 340 164"/>
+<path class="e" d="M110 164 C220 164 230 220 340 220"/>
+<path class="e" d="M110 164 C220 164 230 276 340 276"/>
+<path class="f" stroke="#bc8cff" style="animation-delay:-2.96s" d="M110 164 C220 164 230 276 340 276"/>
+<path class="e" d="M110 164 C220 164 230 332 340 332"/>
+<path class="e" d="M110 220 C220 220 230 108 340 108"/>
+<path class="f" stroke="#bc8cff" style="animation-delay:-0.50s" d="M110 220 C220 220 230 108 340 108"/>
+<path class="e" d="M110 220 C220 220 230 164 340 164"/>
+<path class="e" d="M110 220 C220 220 230 220 340 220"/>
+<path class="e" d="M110 220 C220 220 230 276 340 276"/>
+<path class="f" stroke="#bc8cff" style="animation-delay:-1.61s" d="M110 220 C220 220 230 276 340 276"/>
+<path class="e" d="M110 220 C220 220 230 332 340 332"/>
+<path class="e" d="M110 276 C220 276 230 108 340 108"/>
+<path class="f" stroke="#bc8cff" style="animation-delay:-2.35s" d="M110 276 C220 276 230 108 340 108"/>
+<path class="e" d="M110 276 C220 276 230 164 340 164"/>
+<path class="e" d="M110 276 C220 276 230 220 340 220"/>
+<path class="e" d="M110 276 C220 276 230 276 340 276"/>
+<path class="f" stroke="#bc8cff" style="animation-delay:-0.26s" d="M110 276 C220 276 230 276 340 276"/>
+<path class="e" d="M110 276 C220 276 230 332 340 332"/>
+<path class="e" d="M110 332 C220 332 230 108 340 108"/>
+<path class="f" stroke="#bc8cff" style="animation-delay:-1.00s" d="M110 332 C220 332 230 108 340 108"/>
+<path class="e" d="M110 332 C220 332 230 164 340 164"/>
+<path class="e" d="M110 332 C220 332 230 220 340 220"/>
+<path class="e" d="M110 332 C220 332 230 276 340 276"/>
+<path class="f" stroke="#bc8cff" style="animation-delay:-2.11s" d="M110 332 C220 332 230 276 340 276"/>
+<path class="e" d="M110 332 C220 332 230 332 340 332"/>
+<path class="e" d="M340 108 C450 108 460 108 570 108"/>
+<path class="f" stroke="#d29922" style="animation-delay:-2.85s" d="M340 108 C450 108 460 108 570 108"/>
+<path class="e" d="M340 108 C450 108 460 164 570 164"/>
+<path class="e" d="M340 108 C450 108 460 220 570 220"/>
+<path class="e" d="M340 108 C450 108 460 276 570 276"/>
+<path class="f" stroke="#d29922" style="animation-delay:-0.76s" d="M340 108 C450 108 460 276 570 276"/>
+<path class="e" d="M340 108 C450 108 460 332 570 332"/>
+<path class="e" d="M340 164 C450 164 460 108 570 108"/>
+<path class="f" stroke="#d29922" style="animation-delay:-1.50s" d="M340 164 C450 164 460 108 570 108"/>
+<path class="e" d="M340 164 C450 164 460 164 570 164"/>
+<path class="e" d="M340 164 C450 164 460 220 570 220"/>
+<path class="e" d="M340 164 C450 164 460 276 570 276"/>
+<path class="f" stroke="#d29922" style="animation-delay:-2.61s" d="M340 164 C450 164 460 276 570 276"/>
+<path class="e" d="M340 164 C450 164 460 332 570 332"/>
+<path class="e" d="M340 220 C450 220 460 108 570 108"/>
+<path class="f" stroke="#d29922" style="animation-delay:-0.15s" d="M340 220 C450 220 460 108 570 108"/>
+<path class="e" d="M340 220 C450 220 460 164 570 164"/>
+<path class="e" d="M340 220 C450 220 460 220 570 220"/>
+<path class="e" d="M340 220 C450 220 460 276 570 276"/>
+<path class="f" stroke="#d29922" style="animation-delay:-1.26s" d="M340 220 C450 220 460 276 570 276"/>
+<path class="e" d="M340 220 C450 220 460 332 570 332"/>
+<path class="e" d="M340 276 C450 276 460 108 570 108"/>
+<path class="f" stroke="#d29922" style="animation-delay:-2.00s" d="M340 276 C450 276 460 108 570 108"/>
+<path class="e" d="M340 276 C450 276 460 164 570 164"/>
+<path class="e" d="M340 276 C450 276 460 220 570 220"/>
+<path class="e" d="M340 276 C450 276 460 276 570 276"/>
+<path class="f" stroke="#d29922" style="animation-delay:-3.11s" d="M340 276 C450 276 460 276 570 276"/>
+<path class="e" d="M340 276 C450 276 460 332 570 332"/>
+<path class="e" d="M340 332 C450 332 460 108 570 108"/>
+<path class="f" stroke="#d29922" style="animation-delay:-0.65s" d="M340 332 C450 332 460 108 570 108"/>
+<path class="e" d="M340 332 C450 332 460 164 570 164"/>
+<path class="e" d="M340 332 C450 332 460 220 570 220"/>
+<path class="e" d="M340 332 C450 332 460 276 570 276"/>
+<path class="f" stroke="#d29922" style="animation-delay:-1.76s" d="M340 332 C450 332 460 276 570 276"/>
+<path class="e" d="M340 332 C450 332 460 332 570 332"/>
+<path class="e" d="M570 108 C680 108 680 127 790 127"/>
+<path class="f" stroke="#3fb950" style="animation-delay:-2.50s" d="M570 108 C680 108 680 127 790 127"/>
+<path class="e" d="M570 108 C680 108 680 220 790 220"/>
+<path class="e" d="M570 108 C680 108 680 313 790 313"/>
+<path class="e" d="M570 164 C680 164 680 127 790 127"/>
+<path class="f" stroke="#3fb950" style="animation-delay:-0.41s" d="M570 164 C680 164 680 127 790 127"/>
+<path class="e" d="M570 164 C680 164 680 220 790 220"/>
+<path class="e" d="M570 164 C680 164 680 313 790 313"/>
+<path class="f" stroke="#3fb950" style="animation-delay:-1.15s" d="M570 164 C680 164 680 313 790 313"/>
+<path class="e" d="M570 220 C680 220 680 127 790 127"/>
+<path class="e" d="M570 220 C680 220 680 220 790 220"/>
+<path class="e" d="M570 220 C680 220 680 313 790 313"/>
+<path class="f" stroke="#3fb950" style="animation-delay:-2.26s" d="M570 220 C680 220 680 313 790 313"/>
+<path class="e" d="M570 276 C680 276 680 127 790 127"/>
+<path class="e" d="M570 276 C680 276 680 220 790 220"/>
+<path class="f" stroke="#3fb950" style="animation-delay:-3.00s" d="M570 276 C680 276 680 220 790 220"/>
+<path class="e" d="M570 276 C680 276 680 313 790 313"/>
+<path class="e" d="M570 332 C680 332 680 127 790 127"/>
+<path class="e" d="M570 332 C680 332 680 220 790 220"/>
+<path class="f" stroke="#3fb950" style="animation-delay:-0.91s" d="M570 332 C680 332 680 220 790 220"/>
+<path class="e" d="M570 332 C680 332 680 313 790 313"/>
+<text x="110" y="66" class="m" font-size="11" fill="#58a6ff" text-anchor="middle" letter-spacing="1">INPUT · languages</text>
+<rect class="n" style="animation-delay:0.0s" x="76" y="94" width="68" height="28" rx="14" fill="#161b22" stroke="#58a6ff"/>
+<text x="110" y="112" class="m" font-size="12.5" fill="#e6edf3" text-anchor="middle">Python</text>
+<rect class="n" style="animation-delay:0.4s" x="61" y="150" width="98" height="28" rx="14" fill="#161b22" stroke="#58a6ff"/>
+<text x="110" y="168" class="m" font-size="12.5" fill="#e6edf3" text-anchor="middle">TypeScript</text>
+<rect class="n" style="animation-delay:0.8s" x="88" y="206" width="45" height="28" rx="14" fill="#161b22" stroke="#58a6ff"/>
+<text x="110" y="224" class="m" font-size="12.5" fill="#e6edf3" text-anchor="middle">C++</text>
+<rect class="n" style="animation-delay:1.2s" x="84" y="262" width="52" height="28" rx="14" fill="#161b22" stroke="#58a6ff"/>
+<text x="110" y="280" class="m" font-size="12.5" fill="#e6edf3" text-anchor="middle">Java</text>
+<rect class="n" style="animation-delay:1.6s" x="88" y="318" width="45" height="28" rx="14" fill="#161b22" stroke="#58a6ff"/>
+<text x="110" y="336" class="m" font-size="12.5" fill="#e6edf3" text-anchor="middle">SQL</text>
+<text x="340" y="66" class="m" font-size="11" fill="#bc8cff" text-anchor="middle" letter-spacing="1">HIDDEN · learning</text>
+<rect class="n" style="animation-delay:0.4s" x="302" y="94" width="75" height="28" rx="14" fill="#161b22" stroke="#bc8cff"/>
+<text x="340" y="112" class="m" font-size="12.5" fill="#e6edf3" text-anchor="middle">PyTorch</text>
+<rect class="n" style="animation-delay:0.8s" x="283" y="150" width="113" height="28" rx="14" fill="#161b22" stroke="#bc8cff"/>
+<text x="340" y="168" class="m" font-size="12.5" fill="#e6edf3" text-anchor="middle">scikit-learn</text>
+<rect class="n" style="animation-delay:1.2s" x="234" y="206" width="212" height="28" rx="14" fill="#161b22" stroke="#bc8cff"/>
+<text x="340" y="224" class="m" font-size="12.5" fill="#e6edf3" text-anchor="middle">XGBoost · LGBM · CatBoost</text>
+<rect class="n" style="animation-delay:1.6s" x="306" y="262" width="68" height="28" rx="14" fill="#161b22" stroke="#bc8cff"/>
+<text x="340" y="280" class="m" font-size="12.5" fill="#e6edf3" text-anchor="middle">OpenCV</text>
+<rect class="n" style="animation-delay:2.0s" x="276" y="318" width="128" height="28" rx="14" fill="#161b22" stroke="#bc8cff"/>
+<text x="340" y="336" class="m" font-size="12.5" fill="#e6edf3" text-anchor="middle">NumPy · Pandas</text>
+<text x="570" y="66" class="m" font-size="11" fill="#d29922" text-anchor="middle" letter-spacing="1">HIDDEN · serving</text>
+<rect class="n" style="animation-delay:0.8s" x="532" y="94" width="75" height="28" rx="14" fill="#161b22" stroke="#d29922"/>
+<text x="570" y="112" class="m" font-size="12.5" fill="#e6edf3" text-anchor="middle">FastAPI</text>
+<rect class="n" style="animation-delay:1.2s" x="506" y="150" width="128" height="28" rx="14" fill="#161b22" stroke="#d29922"/>
+<text x="570" y="168" class="m" font-size="12.5" fill="#e6edf3" text-anchor="middle">Node · Express</text>
+<rect class="n" style="animation-delay:1.6s" x="521" y="206" width="98" height="28" rx="14" fill="#161b22" stroke="#d29922"/>
+<text x="570" y="224" class="m" font-size="12.5" fill="#e6edf3" text-anchor="middle">PostgreSQL</text>
+<rect class="n" style="animation-delay:2.0s" x="532" y="262" width="75" height="28" rx="14" fill="#161b22" stroke="#d29922"/>
+<text x="570" y="280" class="m" font-size="12.5" fill="#e6edf3" text-anchor="middle">MongoDB</text>
+<rect class="n" style="animation-delay:2.4s" x="536" y="318" width="68" height="28" rx="14" fill="#161b22" stroke="#d29922"/>
+<text x="570" y="336" class="m" font-size="12.5" fill="#e6edf3" text-anchor="middle">Docker</text>
+<text x="790" y="66" class="m" font-size="11" fill="#3fb950" text-anchor="middle" letter-spacing="1">OUTPUT · shipped</text>
+<rect class="n" style="animation-delay:1.2s" x="722" y="113" width="136" height="28" rx="14" fill="#161b22" stroke="#3fb950"/>
+<text x="790" y="131" class="m" font-size="12.5" fill="#e6edf3" text-anchor="middle">React + TS apps</text>
+<rect class="n" style="animation-delay:1.6s" x="718" y="206" width="144" height="28" rx="14" fill="#161b22" stroke="#3fb950"/>
+<text x="790" y="224" class="m" font-size="12.5" fill="#e6edf3" text-anchor="middle">ML microservices</text>
+<rect class="n" style="animation-delay:2.0s" x="707" y="299" width="166" height="28" rx="14" fill="#161b22" stroke="#3fb950"/>
+<text x="790" y="318" class="m" font-size="12.5" fill="#e6edf3" text-anchor="middle">Kaggle-grade models</text>
+</svg>
